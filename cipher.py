@@ -7,7 +7,7 @@ def duplicate(plaintext: str) -> str:
     duplicate('hello') -> 'hheelloo'
     """
     # TODO
-    return "hello"
+    return "ahoj"
 
 
 def intersection(a: str, b: str) -> str:
